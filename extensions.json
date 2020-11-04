@@ -1,0 +1,57 @@
+{
+    "Videos": [
+        ".avi",
+        ".flv",
+        ".mkv",
+        ".mov",
+        ".mp4",
+        ".webm",
+        ".wmv"
+    ],
+    "Photos": [
+        ".jpg",
+        ".jpeg",
+        ".jfif",
+        ".exif",
+        ".tiff",
+        ".gif",
+        ".bmp",
+        ".png",
+        ".ppm",
+        ".pgm",
+        ".pnm"
+    ],
+    "Music": [
+        ".pcm",
+        ".wav",
+        ".aiff",
+        ".mp3",
+        ".aac",
+        ".ogg",
+        ".wma",
+        ".flac",
+        ".alac"
+    ],
+    "Books": [
+        ".epub",
+        ".mobi"
+    ],
+    "Documents": [
+        ".doc",
+        ".docx",
+        ".txt",
+        ".pdf",
+        ".ppt",
+        ".pptx"
+    ],
+    "Archives": [
+        ".7z",
+        ".tar",
+        ".tar.bz2",
+        ".tar.gz",
+        ".rar",
+        ".zip",
+        ".zipx"
+    ]
+
+}
